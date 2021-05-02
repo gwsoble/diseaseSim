@@ -164,4 +164,5 @@ plt.ylabel('Number of Contagious')
 plt.plot(range(1, 101), contagiousList)
 plt.show()
 
+
 saveFile.close()
